@@ -25,7 +25,7 @@
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/fran-ss/aplicativo_astronomia_TCC.git
+   git clone https://github.com/fran-ss/DESCOBRINDO_O_COSMO_SITE_ESTATICO_PARA_TESTE
    ```
 
 2. **Instale as dependências:**
